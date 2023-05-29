@@ -1,7 +1,7 @@
 {
-  "username": "ibang23",
+  "username": "ramasinta90",
   "album": [
-    "Cat", "Green Nature"
+    "spider"
   ],
   "init_jumlah_photo": 100,
   "admob_banner_id": "ca-app-pub-3940256099942544/6300978111",
@@ -25,8 +25,8 @@
   "interstitial_inverval": 4,
   "list_ads": [
     "ADMOB",
-    "UNITY",
     "STARTAPP",
+    "UNITY",    
     "MAX"
   ]
 }
